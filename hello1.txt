@@ -1,3 +1,1 @@
-hello! this is my first file. I modified it.
-Adiing new line again.
-Making changes to the file after commiting and amending to the latest commint without creating new commit ID..
+hello! this is my first file. I modified it
