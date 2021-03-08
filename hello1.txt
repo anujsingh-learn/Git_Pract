@@ -1,1 +1,2 @@
 hello! this is my first file. I modified it
+Adding changes from feature 2.
